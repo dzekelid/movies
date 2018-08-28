@@ -1,0 +1,261 @@
+{
+	"name": "Streadata.io API Gallery - Movies",
+	"description": "This is a repository of movies APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/movies.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-28",
+	"url": "http://movies.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Facebook",
+			"x-api-slug": "facebook",
+			"description": "Create an account or log into Facebook. Connect with friends, family and other people you know. Share photos and videos, send messages and get updates.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/196-facebook.jpg",
+			"humanURL": "http:///business",
+			"baseURL": "https:///",
+			"tags": "Movies",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/movies/master/_listings/facebook/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Los Angeles Times",
+			"x-api-slug": "los-angeles-times",
+			"description": "The LA Times is a leading source of breaking news, entertainment, sports, politics, and more for Southern California and the world.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/230-los-angeles-times.jpg",
+			"humanURL": "http://wsj.com",
+			"baseURL": "https:///",
+			"tags": "Movies",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/movies/master/_listings/los-angeles-times/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Twitter",
+			"x-api-slug": "twitter",
+			"description": "From breaking news and entertainment to sports and politics, get the full story with all the live commentary.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/twitter-logo.png",
+			"humanURL": "https://twitter.com/",
+			"baseURL": "https://api.twitter.com//1.1",
+			"tags": "Movies",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/movies/master/_listings/twitter/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Fanart.tv",
+			"x-api-slug": "fanart-tv",
+			"description": "Logos, Backgrounds, Posters and more for your TV, Movie and Music collections, API is used by xbmc, mediabrowser, mediaportal and plex among many others",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/781-fanart-tv.jpg",
+			"humanURL": "https://fanart.tv/",
+			"baseURL": "https:///",
+			"tags": "Movies",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/movies/master/_listings/fanart-tv/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Jinni",
+			"x-api-slug": "jinni",
+			"description": "For the past seven years the company has been providing a robust discovery service to pay TV and OTT providers and also offersa targeted advertising taste-based audience buying solution for entertainment brands.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1081-jinni.jpg",
+			"humanURL": "http://www.jinni.com/api.html",
+			"baseURL": "https:///",
+			"tags": "Movies",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/movies/master/_listings/jinni/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Roku",
+			"x-api-slug": "roku",
+			"description": "Roku provides the simplest way to stream entertainment to your TV. On your terms. With thousands of available channels to choose from.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1134-roku.jpg",
+			"humanURL": "http://www.roku.com",
+			"baseURL": "https:///",
+			"tags": "Movies",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/movies/master/_listings/roku/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Cineworld Cinemas",
+			"x-api-slug": "cineworld-cinemas",
+			"description": "Cineworld Group plc is the second largest cinema operator in Europe with 2000 screens in 9 countries. The UK operations consist of arthouse chain Picturehouse Cinemas and multiplex chain Cineworld Cinemas with 24 and 82 cinemas respectively.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cineworld.png",
+			"humanURL": "https://www.cineworld.co.uk",
+			"baseURL": "https:///",
+			"tags": "Movies",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/movies/master/_listings/cineworld-cinemas/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "The Open Movie Database",
+			"x-api-slug": "the-open-movie-database",
+			"description": "The OMDb API is a free web service to obtain movie information, all content and images on the site are contributed and maintained by our users.",
+			"image": "",
+			"humanURL": "http://omdbapi.com",
+			"baseURL": "https:///",
+			"tags": "Movies",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/movies/master/_listings/the-open-movie-database/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "The New York Times",
+			"x-api-slug": "the-new-york-times",
+			"description": "The New York Times: Find breaking news, multimedia, reviews & opinion on Washington, business, sports, movies, travel, books, jobs, education, real estate, cars & more at nytimes.com.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18820-new-york-times.jpg",
+			"humanURL": "http://nytimes.com",
+			"baseURL": "https://api.nytimes.com//svc",
+			"tags": "Movies",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/movies/master/_listings/the-new-york-times/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "The Movie Database (TMDb)",
+			"x-api-slug": "the-movie-database-tmdb",
+			"description": "The Movie Database (TMDb) was started as a side project in 2008 to help the media center community serve high resolution posters and fan art. What started as a simple image sharing community has turned into one of the most actively user edited movie database on the Internet. With an initial data contribution from a project called OMDB (thank you!), the goal was to create our own product and service. We launched the first version of the database in early 2009. Along with the website we also launched one of first and only free movie data APIs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/themoviedb.jpeg",
+			"humanURL": "https://www.themoviedb.org",
+			"baseURL": "https:///",
+			"tags": "Movies",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/movies/master/_listings/the-movie-database-tmdb/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Rotten Tomatoes",
+			"x-api-slug": "rotten-tomatoes",
+			"description": "Rotten Tomatoes is a website launched in August 1998 devoted to film reviews and news; it is widely known as a film review aggregator. Coverage now includes TV content as well. The name derives from the practice of audiences throwing rotten tomatoes when disapproving of a poor stage performance. The company was created by Senh Duong and since January 2010 has been owned by Flixster, which itself was acquired in 2011 by Warner Bros.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rotten-tomatoes-logo.png",
+			"humanURL": "http://rottentomatoes.com",
+			"baseURL": "https://api.rottentomatoes.com//api/public/v1.0",
+			"tags": "Movies",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/movies/master/_listings/rotten-tomatoes/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Play",
+			"x-api-slug": "google-play",
+			"description": "The Google Play Developer API allows you to perform a number of publishing and app-management tasks. It includes two components: The Subscriptions and In-App Purchases API lets you manage in-app purchases and subscriptions. The Publishing API lets you upload and publish apps, and perform other publishing-related tasks.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-play.png",
+			"humanURL": "https://play.google.com/store",
+			"baseURL": "https:///",
+			"tags": "Movies",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/movies/master/_listings/google-play/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Entertainment Express",
+			"x-api-slug": "entertainment-express",
+			"description": "Internet Video Archive (IVA) is a leading entertainment data company providing metadata, images and trailers/clips, for movie and TV content. With the launch of its award-winning Entertainment Express APIs, clients can easily access everything they need to create engaging content discovery experiences. By using Entertainment Express, clients can also connect to other services like movie showtimes and ticketing, content recommendations, content availability and TV channel line-ups. With over a million titles, episodes and over 150,000 videos available, IVA makes it easy for developers to integrate all the services they need at a very affordable price.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/IVA-logo.png",
+			"humanURL": "https://www.internetvideoarchive.com/",
+			"baseURL": "https://ee.iva-api.com//",
+			"tags": "Movies",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/movies/master/_listings/entertainment-express/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Movies",
+	"include": [
+		{
+			"name": "Facebook",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/movies/master/_listings/facebook/apis.yaml"
+		},
+		{
+			"name": "Los Angeles Times",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/movies/master/_listings/los-angeles-times/apis.yaml"
+		},
+		{
+			"name": "Twitter",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/movies/master/_listings/twitter/apis.yaml"
+		},
+		{
+			"name": "Fanart.tv",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/movies/master/_listings/fanart-tv/apis.yaml"
+		},
+		{
+			"name": "Jinni",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/movies/master/_listings/jinni/apis.yaml"
+		},
+		{
+			"name": "Roku",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/movies/master/_listings/roku/apis.yaml"
+		},
+		{
+			"name": "Cineworld Cinemas",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/movies/master/_listings/cineworld-cinemas/apis.yaml"
+		},
+		{
+			"name": "The Open Movie Database",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/movies/master/_listings/the-open-movie-database/apis.yaml"
+		},
+		{
+			"name": "The New York Times",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/movies/master/_listings/the-new-york-times/apis.yaml"
+		},
+		{
+			"name": "The Movie Database (TMDb)",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/movies/master/_listings/the-movie-database-tmdb/apis.yaml"
+		},
+		{
+			"name": "Rotten Tomatoes",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/movies/master/_listings/rotten-tomatoes/apis.yaml"
+		},
+		{
+			"name": "Google Play",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/movies/master/_listings/google-play/apis.yaml"
+		},
+		{
+			"name": "Entertainment Express",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/movies/master/_listings/entertainment-express/apis.yaml"
+		}
+	]
+}

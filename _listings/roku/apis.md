@@ -1,21 +1,15 @@
 ---
 name: Roku
-description: Roku is a consumer electronics firm which specializes in home digital
-  media products. nbsp;Theyrsquo;re best known for creating the first set-top streaming
-  box for Netflix. The company was founded by ReplayTV founder Anthony Wood. ldquo;Rokurdquo;
-  means ldquo;sixrdquo; in Japanese, a reference to the six companies Wood has launched.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1134_logo.png
+x-slug: roku
+description: Roku provides the simplest way to stream entertainment to your TV. On
+  your terms. With thousands of available channels to choose from.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1134-roku.jpg
 x-kinRank: "8"
-x-alexaRank: ""
-tags:
-- Videos
-- Timezone
-- Television
-- Stack Network
-- Movies
-created: "2018-02-25"
-modified: "2018-02-25"
-url: https://raw.githubusercontent.com/streamdata-gallery/movies/master/_listings/roku/apis.yaml
+x-alexaRank: "7400"
+tags: Movies
+created: "2018-08-28"
+modified: "2018-08-28"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/movies/master/_listings/roku/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
@@ -23,6 +17,8 @@ x-common:
   url: http://blog.roku.com
 - type: x-blog-rss
   url: http://blog.roku.com/feed
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/roku
 - type: x-crunchbase
   url: http://www.crunchbase.com/company/roku
 - type: x-developer

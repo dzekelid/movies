@@ -1,32 +1,15 @@
 ---
 name: Los Angeles Times
+x-slug: los-angeles-times
 description: The LA Times is a leading source of breaking news, entertainment, sports,
   politics, and more for Southern California and the world.
 image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/230-los-angeles-times.jpg
 x-kinRank: "8"
 x-alexaRank: "734"
-tags:
-- Stack Network
-- Stack
-- Shopping
-- Reviews
-- Real Estate
-- Publishing
-- Popular
-- NYTimes
-- News
-- News
-- Movies
-- Money
-- Mobile
-- Imports
-- Finance
-- Events
-- Culture
-- Books
-created: "2018-02-25"
-modified: "2018-02-25"
-url: https://raw.githubusercontent.com/streamdata-gallery/movies/master/_listings/los-angeles-times/apis.yaml
+tags: Movies
+created: "2018-08-28"
+modified: "2018-08-28"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/movies/master/_listings/los-angeles-times/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:

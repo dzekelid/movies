@@ -1,27 +1,24 @@
 ---
 name: Google Play
+x-slug: google-play
 description: 'The Google Play Developer API allows you to perform a number of publishing
   and app-management tasks. It includes two components: The Subscriptions and In-App
   Purchases API lets you manage in-app purchases and subscriptions. The Publishing
   API lets you upload and publish apps, and perform other publishing-related tasks.'
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-play.png
 x-kinRank: "9"
-x-alexaRank: ""
-tags:
-- Stack Network
-- Partners
-- Movies
-- Mobile
-- Google APIs
-- Gaming
-- Games
-- Android
-created: "2018-02-25"
-modified: "2018-02-25"
-url: https://raw.githubusercontent.com/streamdata-gallery/movies/master/_listings/google-play/apis.yaml
+x-alexaRank: "0"
+tags: Movies
+created: "2018-08-28"
+modified: "2018-08-28"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/movies/master/_listings/google-play/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
+- type: x-api-gallery
+  url: http://google.people.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://google.play.stack.network
 - type: x-blog
   url: https://blog.google/products/google-play/
 - type: x-blog-rss
